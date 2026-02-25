@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,proactivebackend-pa
 # 域名后缀匹配
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,perplexity.ai
